@@ -1,8 +1,5 @@
 from .stdout import Stdout
 from .window import Window
+from .system import System
+from .parsing import Parser
 
-import win32console
-
-
-hwnd = win32console.GetConsoleWindow()
-window = Window(hwnd)
