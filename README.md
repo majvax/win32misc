@@ -56,3 +56,14 @@ windows version: 10
 <br>
 <br>
 
+
+
+
+## Authors
+
+- [@majvax](https://www.github.com/majvax)
+
+
+## ❤ Show your support
+
+Give a ⭐️ if this project helped you!
